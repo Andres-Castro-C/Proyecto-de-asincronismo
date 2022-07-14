@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-de-asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto De Asincronismo utilizando API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-Castro-C/Proyecto-de-asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andres-Castro-C/Proyecto-de-asincronismo/issues"
+  },
+  "homepage": "https://github.com/Andres-Castro-C/Proyecto-de-asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
